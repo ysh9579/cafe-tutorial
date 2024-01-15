@@ -8,7 +8,12 @@
   make -f build/Makefile build
 ```
 
-## 실행
+## Mysql 실행
+```shell
+  make -f build/Makefile run-mysql
+```
+
+## API 실행
 ```shell
   make -f build/Makefile run
 ```

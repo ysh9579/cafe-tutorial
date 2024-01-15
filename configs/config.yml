@@ -1,0 +1,8 @@
+db:
+  dialect: 'mysql'
+  host: 'host.docker.internal'
+  port: 3306
+  database: 'hello_cafe'
+  username: 'root'
+  password: '1234'
+  verbose: true
